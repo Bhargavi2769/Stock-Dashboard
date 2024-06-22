@@ -29,10 +29,13 @@ Copy code
 git clone https://github.com/Bhargavi2769/Stock-Dashboard.git
 cd stock-dashboard
 2. Install the dependencies:
+Download dependencies by running 
+- npm install axios recharts
+- npm install
 
-bash
-Copy code
-npm install
+Start up the app using npm start
+
+
 
 3. Obtain an API key from Alpha Vantage and replace YOUR_API_KEY in the fetchStockData function with your actual API key.
 
