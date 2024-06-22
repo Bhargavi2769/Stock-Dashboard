@@ -1,0 +1,26 @@
+.charts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin-bottom: 20px;
+
+}
+
+.chart-heading {
+  color: #94a3b8;
+  font-size: 24px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  line-height: 1.5;
+  padding: 20px;
+  text-align: center;
+
+}
+
